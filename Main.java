@@ -24,7 +24,7 @@ public class Main {
   name = input.nextLine();
 
 //greet the user
-System.out.println("Hello" + name + "!");
+System.out.println("Hello " + name + "!");
 
 //declare and initialize the current year constant
 final int CURRENT_YEAR = 2020;
